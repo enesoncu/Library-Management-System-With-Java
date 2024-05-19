@@ -38,4 +38,16 @@ The Library Management System is a Java application that provides a user-friendl
 - Book Management: Add, update, or delete books.
 - Staff Management: Add, update, or delete staff members.
 
-## Screenshots
+# Screenshots
+
+## 1
+![1](https://github.com/enesoncu/LibraryManagementSystemWithJava/assets/142101802/3f922880-ad9d-4695-a1dd-03b3ca571253)
+
+## 2
+![2](https://github.com/enesoncu/LibraryManagementSystemWithJava/assets/142101802/a30f7c19-3d25-4ed9-9885-bcaedf3f088f)
+
+## 3
+![3](https://github.com/enesoncu/LibraryManagementSystemWithJava/assets/142101802/7ab83379-c4c8-4b0c-8133-72fb0c69e42a)
+
+## 4
+![4](https://github.com/enesoncu/LibraryManagementSystemWithJava/assets/142101802/38b41363-e0de-4523-80c2-2c683b331277)
